@@ -1,0 +1,676 @@
+2025-05-16 23:48:31 - Starting blog assignment process
+2025-05-16 23:48:31 - Found 50 users and 1 blogs
+2025-05-16 23:48:31 - Processing user: aarav01 (Preferences: Technology, Finance, Sports)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to aarav01
+2025-05-16 23:48:31 - Created FYI.yaml for aarav01 with 1 blogs
+2025-05-16 23:48:31 - Processing user: aisha02 (Preferences: Cinema, Lifestyle, Travel)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to aisha02
+2025-05-16 23:48:31 - Created FYI.yaml for aisha02 with 1 blogs
+2025-05-16 23:48:31 - Processing user: alice03 (Preferences: Food, Technology, Finance)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to alice03
+2025-05-16 23:48:31 - Created FYI.yaml for alice03 with 1 blogs
+2025-05-16 23:48:31 - Processing user: arjun04 (Preferences: Sports, Technology, Cinema)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to arjun04
+2025-05-16 23:48:31 - Created FYI.yaml for arjun04 with 1 blogs
+2025-05-16 23:48:31 - Processing user: arya05 (Preferences: Lifestyle, Food, Travel)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to arya05
+2025-05-16 23:48:31 - Created FYI.yaml for arya05 with 1 blogs
+2025-05-16 23:48:31 - Processing user: bob06 (Preferences: Finance, Sports, Technology)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to bob06
+2025-05-16 23:48:31 - Created FYI.yaml for bob06 with 1 blogs
+2025-05-16 23:48:31 - Processing user: charan07 (Preferences: Travel, Cinema, Food)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to charan07
+2025-05-16 23:48:31 - Created FYI.yaml for charan07 with 1 blogs
+2025-05-16 23:48:31 - Processing user: charlie08 (Preferences: Technology, Travel, Finance)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to charlie08
+2025-05-16 23:48:31 - Created FYI.yaml for charlie08 with 1 blogs
+2025-05-16 23:48:31 - Processing user: deepa09 (Preferences: Cinema, Food, Lifestyle)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to deepa09
+2025-05-16 23:48:31 - Created FYI.yaml for deepa09 with 1 blogs
+2025-05-16 23:48:31 - Processing user: david10 (Preferences: Sports, Finance, Technology)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to david10
+2025-05-16 23:48:31 - Created FYI.yaml for david10 with 1 blogs
+2025-05-16 23:48:31 - Processing user: diya11 (Preferences: Food, Sports, Cinema)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to diya11
+2025-05-16 23:48:31 - Created FYI.yaml for diya11 with 1 blogs
+2025-05-16 23:48:31 - Processing user: emma12 (Preferences: Lifestyle, Technology, Food)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to emma12
+2025-05-16 23:48:31 - Created FYI.yaml for emma12 with 1 blogs
+2025-05-16 23:48:31 - Processing user: farhan13 (Preferences: Technology, Cinema, Travel)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to farhan13
+2025-05-16 23:48:31 - Created FYI.yaml for farhan13 with 1 blogs
+2025-05-16 23:48:31 - Processing user: gauri14 (Preferences: Finance, Travel, Sports)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to gauri14
+2025-05-16 23:48:31 - Created FYI.yaml for gauri14 with 1 blogs
+2025-05-16 23:48:31 - Processing user: george15 (Preferences: Cinema, Technology, Lifestyle)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to george15
+2025-05-16 23:48:31 - Created FYI.yaml for george15 with 1 blogs
+2025-05-16 23:48:31 - Processing user: hari16 (Preferences: Travel, Finance, Food)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to hari16
+2025-05-16 23:48:31 - Created FYI.yaml for hari16 with 1 blogs
+2025-05-16 23:48:31 - Processing user: harry17 (Preferences: Sports, Cinema, Finance)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to harry17
+2025-05-16 23:48:31 - Created FYI.yaml for harry17 with 1 blogs
+2025-05-16 23:48:31 - Processing user: isha18 (Preferences: Food, Lifestyle, Technology)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to isha18
+2025-05-16 23:48:31 - Created FYI.yaml for isha18 with 1 blogs
+2025-05-16 23:48:31 - Processing user: ian19 (Preferences: Technology, Food, Sports)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to ian19
+2025-05-16 23:48:31 - Created FYI.yaml for ian19 with 1 blogs
+2025-05-16 23:48:31 - Processing user: jack20 (Preferences: Lifestyle, Finance, Cinema)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to jack20
+2025-05-16 23:48:31 - Created FYI.yaml for jack20 with 1 blogs
+2025-05-16 23:48:31 - Processing user: kabir21 (Preferences: Travel, Sports, Technology)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to kabir21
+2025-05-16 23:48:31 - Created FYI.yaml for kabir21 with 1 blogs
+2025-05-16 23:48:31 - Processing user: kavya22 (Preferences: Cinema, Travel, Finance)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to kavya22
+2025-05-16 23:48:31 - Created FYI.yaml for kavya22 with 1 blogs
+2025-05-16 23:48:31 - Processing user: kevin23 (Preferences: Finance, Food, Travel)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to kevin23
+2025-05-16 23:48:31 - Created FYI.yaml for kevin23 with 1 blogs
+2025-05-16 23:48:31 - Processing user: krish24 (Preferences: Sports, Lifestyle, Food)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to krish24
+2025-05-16 23:48:31 - Created FYI.yaml for krish24 with 1 blogs
+2025-05-16 23:48:31 - Processing user: laura25 (Preferences: Technology, Sports, Lifestyle)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to laura25
+2025-05-16 23:48:31 - Created FYI.yaml for laura25 with 1 blogs
+2025-05-16 23:48:31 - Processing user: meera26 (Preferences: Food, Cinema, Finance)
+2025-05-16 23:48:31 - Fallback assigned blog.txt to meera26
+2025-05-16 23:48:31 - Created FYI.yaml for meera26 with 1 blogs
+2025-05-16 23:48:31 - Processing user: mike27 (Preferences: Cinema, Finance, Technology)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to mike27
+2025-05-16 23:48:32 - Created FYI.yaml for mike27 with 1 blogs
+2025-05-16 23:48:32 - Processing user: nikhil28 (Preferences: Finance, Technology, Cinema)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to nikhil28
+2025-05-16 23:48:32 - Created FYI.yaml for nikhil28 with 1 blogs
+2025-05-16 23:48:32 - Processing user: nina29 (Preferences: Lifestyle, Travel, Sports)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to nina29
+2025-05-16 23:48:32 - Created FYI.yaml for nina29 with 1 blogs
+2025-05-16 23:48:32 - Processing user: omar30 (Preferences: Travel, Lifestyle, Technology)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to omar30
+2025-05-16 23:48:32 - Created FYI.yaml for omar30 with 1 blogs
+2025-05-16 23:48:32 - Processing user: pooja31 (Preferences: Sports, Food, Travel)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to pooja31
+2025-05-16 23:48:32 - Created FYI.yaml for pooja31 with 1 blogs
+2025-05-16 23:48:32 - Processing user: paul32 (Preferences: Technology, Lifestyle, Cinema)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to paul32
+2025-05-16 23:48:32 - Created FYI.yaml for paul32 with 1 blogs
+2025-05-16 23:48:32 - Processing user: rahul33 (Preferences: Cinema, Sports, Food)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to rahul33
+2025-05-16 23:48:32 - Created FYI.yaml for rahul33 with 1 blogs
+2025-05-16 23:48:32 - Processing user: rani34 (Preferences: Food, Finance, Lifestyle)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to rani34
+2025-05-16 23:48:32 - Created FYI.yaml for rani34 with 1 blogs
+2025-05-16 23:48:32 - Processing user: rishi35 (Preferences: Finance, Cinema, Technology)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to rishi35
+2025-05-16 23:48:32 - Created FYI.yaml for rishi35 with 1 blogs
+2025-05-16 23:48:32 - Processing user: steve36 (Preferences: Travel, Technology, Cinema)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to steve36
+2025-05-16 23:48:32 - Created FYI.yaml for steve36 with 1 blogs
+2025-05-16 23:48:32 - Processing user: sanjay37 (Preferences: Lifestyle, Sports, Finance)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to sanjay37
+2025-05-16 23:48:32 - Created FYI.yaml for sanjay37 with 1 blogs
+2025-05-16 23:48:32 - Processing user: tina38 (Preferences: Technology, Travel, Food)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to tina38
+2025-05-16 23:48:32 - Created FYI.yaml for tina38 with 1 blogs
+2025-05-16 23:48:32 - Processing user: uma39 (Preferences: Sports, Lifestyle, Travel)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to uma39
+2025-05-16 23:48:32 - Created FYI.yaml for uma39 with 1 blogs
+2025-05-16 23:48:32 - Processing user: varun40 (Preferences: Cinema, Food, Technology)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to varun40
+2025-05-16 23:48:32 - Created FYI.yaml for varun40 with 1 blogs
+2025-05-16 23:48:32 - Processing user: veena41 (Preferences: Finance, Lifestyle, Cinema)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to veena41
+2025-05-16 23:48:32 - Created FYI.yaml for veena41 with 1 blogs
+2025-05-16 23:48:32 - Processing user: wendy42 (Preferences: Food, Travel, Sports)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to wendy42
+2025-05-16 23:48:32 - Created FYI.yaml for wendy42 with 1 blogs
+2025-05-16 23:48:32 - Processing user: xavier43 (Preferences: Technology, Finance, Food)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to xavier43
+2025-05-16 23:48:32 - Created FYI.yaml for xavier43 with 1 blogs
+2025-05-16 23:48:32 - Processing user: yash44 (Preferences: Lifestyle, Cinema, Technology)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to yash44
+2025-05-16 23:48:32 - Created FYI.yaml for yash44 with 1 blogs
+2025-05-16 23:48:32 - Processing user: zara45 (Preferences: Travel, Food, Finance)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to zara45
+2025-05-16 23:48:32 - Created FYI.yaml for zara45 with 1 blogs
+2025-05-16 23:48:32 - Processing user: zoya46 (Preferences: Sports, Technology, Lifestyle)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to zoya46
+2025-05-16 23:48:32 - Created FYI.yaml for zoya46 with 1 blogs
+2025-05-16 23:48:32 - Processing user: vinay47 (Preferences: Cinema, Finance, Travel)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to vinay47
+2025-05-16 23:48:32 - Created FYI.yaml for vinay47 with 1 blogs
+2025-05-16 23:48:32 - Processing user: tara48 (Preferences: Finance, Sports, Food)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to tara48
+2025-05-16 23:48:32 - Created FYI.yaml for tara48 with 1 blogs
+2025-05-16 23:48:32 - Processing user: ritu49 (Preferences: Technology, Cinema, Lifestyle)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to ritu49
+2025-05-16 23:48:32 - Created FYI.yaml for ritu49 with 1 blogs
+2025-05-16 23:48:32 - Processing user: neel50 (Preferences: Food, Travel, Cinema)
+2025-05-16 23:48:32 - Fallback assigned blog.txt to neel50
+2025-05-16 23:48:32 - Created FYI.yaml for neel50 with 1 blogs
+
+Blog Assignment Summary:
+blog.txt: 50 assignments
+2025-05-16 23:48:32 - Blog assignment process completed
+2025-05-16 23:54:25 - Starting blog assignment process
+2025-05-16 23:54:25 - Found 50 users and 4 blogs
+2025-05-16 23:54:25 - Processing user: aarav01 (Preferences: Technology, Finance, Sports)
+2025-05-16 23:54:25 - Fallback assigned blog1.txt to aarav01
+2025-05-16 23:54:25 - Fallback assigned blog.txt to aarav01
+2025-05-16 23:54:25 - Fallback assigned blog2.txt to aarav01
+2025-05-16 23:54:25 - Created FYI.yaml for aarav01 with 3 blogs
+2025-05-16 23:54:25 - Processing user: aisha02 (Preferences: Cinema, Lifestyle, Travel)
+2025-05-16 23:54:25 - Fallback assigned blog3.txt to aisha02
+2025-05-16 23:54:25 - Fallback assigned blog1.txt to aisha02
+2025-05-16 23:54:25 - Fallback assigned blog.txt to aisha02
+2025-05-16 23:54:25 - Created FYI.yaml for aisha02 with 3 blogs
+2025-05-16 23:54:25 - Processing user: alice03 (Preferences: Food, Technology, Finance)
+2025-05-16 23:54:25 - Fallback assigned blog2.txt to alice03
+2025-05-16 23:54:25 - Fallback assigned blog3.txt to alice03
+2025-05-16 23:54:25 - Fallback assigned blog1.txt to alice03
+2025-05-16 23:54:25 - Created FYI.yaml for alice03 with 3 blogs
+2025-05-16 23:54:25 - Processing user: arjun04 (Preferences: Sports, Technology, Cinema)
+2025-05-16 23:54:25 - Fallback assigned blog.txt to arjun04
+2025-05-16 23:54:25 - Fallback assigned blog2.txt to arjun04
+2025-05-16 23:54:25 - Fallback assigned blog3.txt to arjun04
+2025-05-16 23:54:25 - Created FYI.yaml for arjun04 with 3 blogs
+2025-05-16 23:54:25 - Processing user: arya05 (Preferences: Lifestyle, Food, Travel)
+2025-05-16 23:54:25 - Fallback assigned blog1.txt to arya05
+2025-05-16 23:54:25 - Fallback assigned blog.txt to arya05
+2025-05-16 23:54:25 - Fallback assigned blog2.txt to arya05
+2025-05-16 23:54:25 - Created FYI.yaml for arya05 with 3 blogs
+2025-05-16 23:54:25 - Processing user: bob06 (Preferences: Finance, Sports, Technology)
+2025-05-16 23:54:25 - Fallback assigned blog3.txt to bob06
+2025-05-16 23:54:25 - Fallback assigned blog1.txt to bob06
+2025-05-16 23:54:25 - Fallback assigned blog.txt to bob06
+2025-05-16 23:54:25 - Created FYI.yaml for bob06 with 3 blogs
+2025-05-16 23:54:25 - Processing user: charan07 (Preferences: Travel, Cinema, Food)
+2025-05-16 23:54:25 - Fallback assigned blog2.txt to charan07
+2025-05-16 23:54:25 - Fallback assigned blog3.txt to charan07
+2025-05-16 23:54:25 - Fallback assigned blog1.txt to charan07
+2025-05-16 23:54:25 - Created FYI.yaml for charan07 with 3 blogs
+2025-05-16 23:54:25 - Processing user: charlie08 (Preferences: Technology, Travel, Finance)
+2025-05-16 23:54:25 - Fallback assigned blog.txt to charlie08
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to charlie08
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to charlie08
+2025-05-16 23:54:26 - Created FYI.yaml for charlie08 with 3 blogs
+2025-05-16 23:54:26 - Processing user: deepa09 (Preferences: Cinema, Food, Lifestyle)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to deepa09
+2025-05-16 23:54:26 - Fallback assigned blog.txt to deepa09
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to deepa09
+2025-05-16 23:54:26 - Created FYI.yaml for deepa09 with 3 blogs
+2025-05-16 23:54:26 - Processing user: david10 (Preferences: Sports, Finance, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to david10
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to david10
+2025-05-16 23:54:26 - Fallback assigned blog.txt to david10
+2025-05-16 23:54:26 - Created FYI.yaml for david10 with 3 blogs
+2025-05-16 23:54:26 - Processing user: diya11 (Preferences: Food, Sports, Cinema)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to diya11
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to diya11
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to diya11
+2025-05-16 23:54:26 - Created FYI.yaml for diya11 with 3 blogs
+2025-05-16 23:54:26 - Processing user: emma12 (Preferences: Lifestyle, Technology, Food)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to emma12
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to emma12
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to emma12
+2025-05-16 23:54:26 - Created FYI.yaml for emma12 with 3 blogs
+2025-05-16 23:54:26 - Processing user: farhan13 (Preferences: Technology, Cinema, Travel)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to farhan13
+2025-05-16 23:54:26 - Fallback assigned blog.txt to farhan13
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to farhan13
+2025-05-16 23:54:26 - Created FYI.yaml for farhan13 with 3 blogs
+2025-05-16 23:54:26 - Processing user: gauri14 (Preferences: Finance, Travel, Sports)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to gauri14
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to gauri14
+2025-05-16 23:54:26 - Fallback assigned blog.txt to gauri14
+2025-05-16 23:54:26 - Created FYI.yaml for gauri14 with 3 blogs
+2025-05-16 23:54:26 - Processing user: george15 (Preferences: Cinema, Technology, Lifestyle)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to george15
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to george15
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to george15
+2025-05-16 23:54:26 - Created FYI.yaml for george15 with 3 blogs
+2025-05-16 23:54:26 - Processing user: hari16 (Preferences: Travel, Finance, Food)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to hari16
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to hari16
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to hari16
+2025-05-16 23:54:26 - Created FYI.yaml for hari16 with 3 blogs
+2025-05-16 23:54:26 - Processing user: harry17 (Preferences: Sports, Cinema, Finance)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to harry17
+2025-05-16 23:54:26 - Fallback assigned blog.txt to harry17
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to harry17
+2025-05-16 23:54:26 - Created FYI.yaml for harry17 with 3 blogs
+2025-05-16 23:54:26 - Processing user: isha18 (Preferences: Food, Lifestyle, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to isha18
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to isha18
+2025-05-16 23:54:26 - Fallback assigned blog.txt to isha18
+2025-05-16 23:54:26 - Created FYI.yaml for isha18 with 3 blogs
+2025-05-16 23:54:26 - Processing user: ian19 (Preferences: Technology, Food, Sports)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to ian19
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to ian19
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to ian19
+2025-05-16 23:54:26 - Created FYI.yaml for ian19 with 3 blogs
+2025-05-16 23:54:26 - Processing user: jack20 (Preferences: Lifestyle, Finance, Cinema)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to jack20
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to jack20
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to jack20
+2025-05-16 23:54:26 - Created FYI.yaml for jack20 with 3 blogs
+2025-05-16 23:54:26 - Processing user: kabir21 (Preferences: Travel, Sports, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to kabir21
+2025-05-16 23:54:26 - Fallback assigned blog.txt to kabir21
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to kabir21
+2025-05-16 23:54:26 - Created FYI.yaml for kabir21 with 3 blogs
+2025-05-16 23:54:26 - Processing user: kavya22 (Preferences: Cinema, Travel, Finance)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to kavya22
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to kavya22
+2025-05-16 23:54:26 - Fallback assigned blog.txt to kavya22
+2025-05-16 23:54:26 - Created FYI.yaml for kavya22 with 3 blogs
+2025-05-16 23:54:26 - Processing user: kevin23 (Preferences: Finance, Food, Travel)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to kevin23
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to kevin23
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to kevin23
+2025-05-16 23:54:26 - Created FYI.yaml for kevin23 with 3 blogs
+2025-05-16 23:54:26 - Processing user: krish24 (Preferences: Sports, Lifestyle, Food)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to krish24
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to krish24
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to krish24
+2025-05-16 23:54:26 - Created FYI.yaml for krish24 with 3 blogs
+2025-05-16 23:54:26 - Processing user: laura25 (Preferences: Technology, Sports, Lifestyle)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to laura25
+2025-05-16 23:54:26 - Fallback assigned blog.txt to laura25
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to laura25
+2025-05-16 23:54:26 - Created FYI.yaml for laura25 with 3 blogs
+2025-05-16 23:54:26 - Processing user: meera26 (Preferences: Food, Cinema, Finance)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to meera26
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to meera26
+2025-05-16 23:54:26 - Fallback assigned blog.txt to meera26
+2025-05-16 23:54:26 - Created FYI.yaml for meera26 with 3 blogs
+2025-05-16 23:54:26 - Processing user: mike27 (Preferences: Cinema, Finance, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to mike27
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to mike27
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to mike27
+2025-05-16 23:54:26 - Created FYI.yaml for mike27 with 3 blogs
+2025-05-16 23:54:26 - Processing user: nikhil28 (Preferences: Finance, Technology, Cinema)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to nikhil28
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to nikhil28
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to nikhil28
+2025-05-16 23:54:26 - Created FYI.yaml for nikhil28 with 3 blogs
+2025-05-16 23:54:26 - Processing user: nina29 (Preferences: Lifestyle, Travel, Sports)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to nina29
+2025-05-16 23:54:26 - Fallback assigned blog.txt to nina29
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to nina29
+2025-05-16 23:54:26 - Created FYI.yaml for nina29 with 3 blogs
+2025-05-16 23:54:26 - Processing user: omar30 (Preferences: Travel, Lifestyle, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to omar30
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to omar30
+2025-05-16 23:54:26 - Fallback assigned blog.txt to omar30
+2025-05-16 23:54:26 - Created FYI.yaml for omar30 with 3 blogs
+2025-05-16 23:54:26 - Processing user: pooja31 (Preferences: Sports, Food, Travel)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to pooja31
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to pooja31
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to pooja31
+2025-05-16 23:54:26 - Created FYI.yaml for pooja31 with 3 blogs
+2025-05-16 23:54:26 - Processing user: paul32 (Preferences: Technology, Lifestyle, Cinema)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to paul32
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to paul32
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to paul32
+2025-05-16 23:54:26 - Created FYI.yaml for paul32 with 3 blogs
+2025-05-16 23:54:26 - Processing user: rahul33 (Preferences: Cinema, Sports, Food)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to rahul33
+2025-05-16 23:54:26 - Fallback assigned blog.txt to rahul33
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to rahul33
+2025-05-16 23:54:26 - Created FYI.yaml for rahul33 with 3 blogs
+2025-05-16 23:54:26 - Processing user: rani34 (Preferences: Food, Finance, Lifestyle)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to rani34
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to rani34
+2025-05-16 23:54:26 - Fallback assigned blog.txt to rani34
+2025-05-16 23:54:26 - Created FYI.yaml for rani34 with 3 blogs
+2025-05-16 23:54:26 - Processing user: rishi35 (Preferences: Finance, Cinema, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to rishi35
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to rishi35
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to rishi35
+2025-05-16 23:54:26 - Created FYI.yaml for rishi35 with 3 blogs
+2025-05-16 23:54:26 - Processing user: steve36 (Preferences: Travel, Technology, Cinema)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to steve36
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to steve36
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to steve36
+2025-05-16 23:54:26 - Created FYI.yaml for steve36 with 3 blogs
+2025-05-16 23:54:26 - Processing user: sanjay37 (Preferences: Lifestyle, Sports, Finance)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to sanjay37
+2025-05-16 23:54:26 - Fallback assigned blog.txt to sanjay37
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to sanjay37
+2025-05-16 23:54:26 - Created FYI.yaml for sanjay37 with 3 blogs
+2025-05-16 23:54:26 - Processing user: tina38 (Preferences: Technology, Travel, Food)
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to tina38
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to tina38
+2025-05-16 23:54:26 - Fallback assigned blog.txt to tina38
+2025-05-16 23:54:26 - Created FYI.yaml for tina38 with 3 blogs
+2025-05-16 23:54:26 - Processing user: uma39 (Preferences: Sports, Lifestyle, Travel)
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to uma39
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to uma39
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to uma39
+2025-05-16 23:54:26 - Created FYI.yaml for uma39 with 3 blogs
+2025-05-16 23:54:26 - Processing user: varun40 (Preferences: Cinema, Food, Technology)
+2025-05-16 23:54:26 - Fallback assigned blog.txt to varun40
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to varun40
+2025-05-16 23:54:26 - Fallback assigned blog3.txt to varun40
+2025-05-16 23:54:26 - Created FYI.yaml for varun40 with 3 blogs
+2025-05-16 23:54:26 - Processing user: veena41 (Preferences: Finance, Lifestyle, Cinema)
+2025-05-16 23:54:26 - Fallback assigned blog1.txt to veena41
+2025-05-16 23:54:26 - Fallback assigned blog.txt to veena41
+2025-05-16 23:54:26 - Fallback assigned blog2.txt to veena41
+2025-05-16 23:54:26 - Created FYI.yaml for veena41 with 3 blogs
+2025-05-16 23:54:27 - Processing user: wendy42 (Preferences: Food, Travel, Sports)
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to wendy42
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to wendy42
+2025-05-16 23:54:27 - Fallback assigned blog.txt to wendy42
+2025-05-16 23:54:27 - Created FYI.yaml for wendy42 with 3 blogs
+2025-05-16 23:54:27 - Processing user: xavier43 (Preferences: Technology, Finance, Food)
+2025-05-16 23:54:27 - Fallback assigned blog2.txt to xavier43
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to xavier43
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to xavier43
+2025-05-16 23:54:27 - Created FYI.yaml for xavier43 with 3 blogs
+2025-05-16 23:54:27 - Processing user: yash44 (Preferences: Lifestyle, Cinema, Technology)
+2025-05-16 23:54:27 - Fallback assigned blog.txt to yash44
+2025-05-16 23:54:27 - Fallback assigned blog2.txt to yash44
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to yash44
+2025-05-16 23:54:27 - Created FYI.yaml for yash44 with 3 blogs
+2025-05-16 23:54:27 - Processing user: zara45 (Preferences: Travel, Food, Finance)
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to zara45
+2025-05-16 23:54:27 - Fallback assigned blog.txt to zara45
+2025-05-16 23:54:27 - Fallback assigned blog2.txt to zara45
+2025-05-16 23:54:27 - Created FYI.yaml for zara45 with 3 blogs
+2025-05-16 23:54:27 - Processing user: zoya46 (Preferences: Sports, Technology, Lifestyle)
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to zoya46
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to zoya46
+2025-05-16 23:54:27 - Fallback assigned blog.txt to zoya46
+2025-05-16 23:54:27 - Created FYI.yaml for zoya46 with 3 blogs
+2025-05-16 23:54:27 - Processing user: vinay47 (Preferences: Cinema, Finance, Travel)
+2025-05-16 23:54:27 - Fallback assigned blog2.txt to vinay47
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to vinay47
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to vinay47
+2025-05-16 23:54:27 - Created FYI.yaml for vinay47 with 3 blogs
+2025-05-16 23:54:27 - Processing user: tara48 (Preferences: Finance, Sports, Food)
+2025-05-16 23:54:27 - Fallback assigned blog.txt to tara48
+2025-05-16 23:54:27 - Fallback assigned blog2.txt to tara48
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to tara48
+2025-05-16 23:54:27 - Created FYI.yaml for tara48 with 3 blogs
+2025-05-16 23:54:27 - Processing user: ritu49 (Preferences: Technology, Cinema, Lifestyle)
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to ritu49
+2025-05-16 23:54:27 - Fallback assigned blog.txt to ritu49
+2025-05-16 23:54:27 - Fallback assigned blog2.txt to ritu49
+2025-05-16 23:54:27 - Created FYI.yaml for ritu49 with 3 blogs
+2025-05-16 23:54:27 - Processing user: neel50 (Preferences: Food, Travel, Cinema)
+2025-05-16 23:54:27 - Fallback assigned blog3.txt to neel50
+2025-05-16 23:54:27 - Fallback assigned blog1.txt to neel50
+2025-05-16 23:54:27 - Fallback assigned blog.txt to neel50
+2025-05-16 23:54:27 - Created FYI.yaml for neel50 with 3 blogs
+
+Blog Assignment Summary:
+blog1.txt: 38 assignments
+blog.txt: 38 assignments
+blog2.txt: 37 assignments
+blog3.txt: 37 assignments
+2025-05-16 23:54:27 - Blog assignment process completed
+2025-05-17 01:53:29 - Started
+2025-05-17 01:53:30 - Done
+2025-05-17 01:53:43 - Starting blog assignment process
+2025-05-17 01:53:43 - Found 50 users and 4 blogs
+2025-05-17 01:53:44 - Processing user: aarav01 (Preferences: Technology, Finance, Sports)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to aarav01
+2025-05-17 01:53:44 - Fallback assigned blog.txt to aarav01
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to aarav01
+2025-05-17 01:53:44 - Created FYI.yaml for aarav01 with 3 blogs
+2025-05-17 01:53:44 - Processing user: aisha02 (Preferences: Cinema, Lifestyle, Travel)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to aisha02
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to aisha02
+2025-05-17 01:53:44 - Fallback assigned blog.txt to aisha02
+2025-05-17 01:53:44 - Created FYI.yaml for aisha02 with 3 blogs
+2025-05-17 01:53:44 - Processing user: alice03 (Preferences: Food, Technology, Finance)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to alice03
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to alice03
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to alice03
+2025-05-17 01:53:44 - Created FYI.yaml for alice03 with 3 blogs
+2025-05-17 01:53:44 - Processing user: arjun04 (Preferences: Sports, Technology, Cinema)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to arjun04
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to arjun04
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to arjun04
+2025-05-17 01:53:44 - Created FYI.yaml for arjun04 with 3 blogs
+2025-05-17 01:53:44 - Processing user: arya05 (Preferences: Lifestyle, Food, Travel)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to arya05
+2025-05-17 01:53:44 - Fallback assigned blog.txt to arya05
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to arya05
+2025-05-17 01:53:44 - Created FYI.yaml for arya05 with 3 blogs
+2025-05-17 01:53:44 - Processing user: bob06 (Preferences: Finance, Sports, Technology)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to bob06
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to bob06
+2025-05-17 01:53:44 - Fallback assigned blog.txt to bob06
+2025-05-17 01:53:44 - Created FYI.yaml for bob06 with 3 blogs
+2025-05-17 01:53:44 - Processing user: charan07 (Preferences: Travel, Cinema, Food)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to charan07
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to charan07
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to charan07
+2025-05-17 01:53:44 - Created FYI.yaml for charan07 with 3 blogs
+2025-05-17 01:53:44 - Processing user: charlie08 (Preferences: Technology, Travel, Finance)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to charlie08
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to charlie08
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to charlie08
+2025-05-17 01:53:44 - Created FYI.yaml for charlie08 with 3 blogs
+2025-05-17 01:53:44 - Processing user: deepa09 (Preferences: Cinema, Food, Lifestyle)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to deepa09
+2025-05-17 01:53:44 - Fallback assigned blog.txt to deepa09
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to deepa09
+2025-05-17 01:53:44 - Created FYI.yaml for deepa09 with 3 blogs
+2025-05-17 01:53:44 - Processing user: david10 (Preferences: Sports, Finance, Technology)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to david10
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to david10
+2025-05-17 01:53:44 - Fallback assigned blog.txt to david10
+2025-05-17 01:53:44 - Created FYI.yaml for david10 with 3 blogs
+2025-05-17 01:53:44 - Processing user: diya11 (Preferences: Food, Sports, Cinema)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to diya11
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to diya11
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to diya11
+2025-05-17 01:53:44 - Created FYI.yaml for diya11 with 3 blogs
+2025-05-17 01:53:44 - Processing user: emma12 (Preferences: Lifestyle, Technology, Food)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to emma12
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to emma12
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to emma12
+2025-05-17 01:53:44 - Created FYI.yaml for emma12 with 3 blogs
+2025-05-17 01:53:44 - Processing user: farhan13 (Preferences: Technology, Cinema, Travel)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to farhan13
+2025-05-17 01:53:44 - Fallback assigned blog.txt to farhan13
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to farhan13
+2025-05-17 01:53:44 - Created FYI.yaml for farhan13 with 3 blogs
+2025-05-17 01:53:44 - Processing user: gauri14 (Preferences: Finance, Travel, Sports)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to gauri14
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to gauri14
+2025-05-17 01:53:44 - Fallback assigned blog.txt to gauri14
+2025-05-17 01:53:44 - Created FYI.yaml for gauri14 with 3 blogs
+2025-05-17 01:53:44 - Processing user: george15 (Preferences: Cinema, Technology, Lifestyle)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to george15
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to george15
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to george15
+2025-05-17 01:53:44 - Created FYI.yaml for george15 with 3 blogs
+2025-05-17 01:53:44 - Processing user: hari16 (Preferences: Travel, Finance, Food)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to hari16
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to hari16
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to hari16
+2025-05-17 01:53:44 - Created FYI.yaml for hari16 with 3 blogs
+2025-05-17 01:53:44 - Processing user: harry17 (Preferences: Sports, Cinema, Finance)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to harry17
+2025-05-17 01:53:44 - Fallback assigned blog.txt to harry17
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to harry17
+2025-05-17 01:53:44 - Created FYI.yaml for harry17 with 3 blogs
+2025-05-17 01:53:44 - Processing user: isha18 (Preferences: Food, Lifestyle, Technology)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to isha18
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to isha18
+2025-05-17 01:53:44 - Fallback assigned blog.txt to isha18
+2025-05-17 01:53:44 - Created FYI.yaml for isha18 with 3 blogs
+2025-05-17 01:53:44 - Processing user: ian19 (Preferences: Technology, Food, Sports)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to ian19
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to ian19
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to ian19
+2025-05-17 01:53:44 - Created FYI.yaml for ian19 with 3 blogs
+2025-05-17 01:53:44 - Processing user: jack20 (Preferences: Lifestyle, Finance, Cinema)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to jack20
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to jack20
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to jack20
+2025-05-17 01:53:44 - Created FYI.yaml for jack20 with 3 blogs
+2025-05-17 01:53:44 - Processing user: kabir21 (Preferences: Travel, Sports, Technology)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to kabir21
+2025-05-17 01:53:44 - Fallback assigned blog.txt to kabir21
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to kabir21
+2025-05-17 01:53:44 - Created FYI.yaml for kabir21 with 3 blogs
+2025-05-17 01:53:44 - Processing user: kavya22 (Preferences: Cinema, Travel, Finance)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to kavya22
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to kavya22
+2025-05-17 01:53:44 - Fallback assigned blog.txt to kavya22
+2025-05-17 01:53:44 - Created FYI.yaml for kavya22 with 3 blogs
+2025-05-17 01:53:44 - Processing user: kevin23 (Preferences: Finance, Food, Travel)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to kevin23
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to kevin23
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to kevin23
+2025-05-17 01:53:44 - Created FYI.yaml for kevin23 with 3 blogs
+2025-05-17 01:53:44 - Processing user: krish24 (Preferences: Sports, Lifestyle, Food)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to krish24
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to krish24
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to krish24
+2025-05-17 01:53:44 - Created FYI.yaml for krish24 with 3 blogs
+2025-05-17 01:53:44 - Processing user: laura25 (Preferences: Technology, Sports, Lifestyle)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to laura25
+2025-05-17 01:53:44 - Fallback assigned blog.txt to laura25
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to laura25
+2025-05-17 01:53:44 - Created FYI.yaml for laura25 with 3 blogs
+2025-05-17 01:53:44 - Processing user: meera26 (Preferences: Food, Cinema, Finance)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to meera26
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to meera26
+2025-05-17 01:53:44 - Fallback assigned blog.txt to meera26
+2025-05-17 01:53:44 - Created FYI.yaml for meera26 with 3 blogs
+2025-05-17 01:53:44 - Processing user: mike27 (Preferences: Cinema, Finance, Technology)
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to mike27
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to mike27
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to mike27
+2025-05-17 01:53:44 - Created FYI.yaml for mike27 with 3 blogs
+2025-05-17 01:53:44 - Processing user: nikhil28 (Preferences: Finance, Technology, Cinema)
+2025-05-17 01:53:44 - Fallback assigned blog.txt to nikhil28
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to nikhil28
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to nikhil28
+2025-05-17 01:53:44 - Created FYI.yaml for nikhil28 with 3 blogs
+2025-05-17 01:53:44 - Processing user: nina29 (Preferences: Lifestyle, Travel, Sports)
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to nina29
+2025-05-17 01:53:44 - Fallback assigned blog.txt to nina29
+2025-05-17 01:53:44 - Fallback assigned blog2.txt to nina29
+2025-05-17 01:53:44 - Created FYI.yaml for nina29 with 3 blogs
+2025-05-17 01:53:44 - Processing user: omar30 (Preferences: Travel, Lifestyle, Technology)
+2025-05-17 01:53:44 - Fallback assigned blog3.txt to omar30
+2025-05-17 01:53:44 - Fallback assigned blog1.txt to omar30
+2025-05-17 01:53:44 - Fallback assigned blog.txt to omar30
+2025-05-17 01:53:44 - Created FYI.yaml for omar30 with 3 blogs
+2025-05-17 01:53:44 - Processing user: pooja31 (Preferences: Sports, Food, Travel)
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to pooja31
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to pooja31
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to pooja31
+2025-05-17 01:53:45 - Created FYI.yaml for pooja31 with 3 blogs
+2025-05-17 01:53:45 - Processing user: paul32 (Preferences: Technology, Lifestyle, Cinema)
+2025-05-17 01:53:45 - Fallback assigned blog.txt to paul32
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to paul32
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to paul32
+2025-05-17 01:53:45 - Created FYI.yaml for paul32 with 3 blogs
+2025-05-17 01:53:45 - Processing user: rahul33 (Preferences: Cinema, Sports, Food)
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to rahul33
+2025-05-17 01:53:45 - Fallback assigned blog.txt to rahul33
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to rahul33
+2025-05-17 01:53:45 - Created FYI.yaml for rahul33 with 3 blogs
+2025-05-17 01:53:45 - Processing user: rani34 (Preferences: Food, Finance, Lifestyle)
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to rani34
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to rani34
+2025-05-17 01:53:45 - Fallback assigned blog.txt to rani34
+2025-05-17 01:53:45 - Created FYI.yaml for rani34 with 3 blogs
+2025-05-17 01:53:45 - Processing user: rishi35 (Preferences: Finance, Cinema, Technology)
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to rishi35
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to rishi35
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to rishi35
+2025-05-17 01:53:45 - Created FYI.yaml for rishi35 with 3 blogs
+2025-05-17 01:53:45 - Processing user: steve36 (Preferences: Travel, Technology, Cinema)
+2025-05-17 01:53:45 - Fallback assigned blog.txt to steve36
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to steve36
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to steve36
+2025-05-17 01:53:45 - Created FYI.yaml for steve36 with 3 blogs
+2025-05-17 01:53:45 - Processing user: sanjay37 (Preferences: Lifestyle, Sports, Finance)
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to sanjay37
+2025-05-17 01:53:45 - Fallback assigned blog.txt to sanjay37
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to sanjay37
+2025-05-17 01:53:45 - Created FYI.yaml for sanjay37 with 3 blogs
+2025-05-17 01:53:45 - Processing user: tina38 (Preferences: Technology, Travel, Food)
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to tina38
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to tina38
+2025-05-17 01:53:45 - Fallback assigned blog.txt to tina38
+2025-05-17 01:53:45 - Created FYI.yaml for tina38 with 3 blogs
+2025-05-17 01:53:45 - Processing user: uma39 (Preferences: Sports, Lifestyle, Travel)
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to uma39
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to uma39
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to uma39
+2025-05-17 01:53:45 - Created FYI.yaml for uma39 with 3 blogs
+2025-05-17 01:53:45 - Processing user: varun40 (Preferences: Cinema, Food, Technology)
+2025-05-17 01:53:45 - Fallback assigned blog.txt to varun40
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to varun40
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to varun40
+2025-05-17 01:53:45 - Created FYI.yaml for varun40 with 3 blogs
+2025-05-17 01:53:45 - Processing user: veena41 (Preferences: Finance, Lifestyle, Cinema)
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to veena41
+2025-05-17 01:53:45 - Fallback assigned blog.txt to veena41
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to veena41
+2025-05-17 01:53:45 - Created FYI.yaml for veena41 with 3 blogs
+2025-05-17 01:53:45 - Processing user: wendy42 (Preferences: Food, Travel, Sports)
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to wendy42
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to wendy42
+2025-05-17 01:53:45 - Fallback assigned blog.txt to wendy42
+2025-05-17 01:53:45 - Created FYI.yaml for wendy42 with 3 blogs
+2025-05-17 01:53:45 - Processing user: xavier43 (Preferences: Technology, Finance, Food)
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to xavier43
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to xavier43
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to xavier43
+2025-05-17 01:53:45 - Created FYI.yaml for xavier43 with 3 blogs
+2025-05-17 01:53:45 - Processing user: yash44 (Preferences: Lifestyle, Cinema, Technology)
+2025-05-17 01:53:45 - Fallback assigned blog.txt to yash44
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to yash44
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to yash44
+2025-05-17 01:53:45 - Created FYI.yaml for yash44 with 3 blogs
+2025-05-17 01:53:45 - Processing user: zara45 (Preferences: Travel, Food, Finance)
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to zara45
+2025-05-17 01:53:45 - Fallback assigned blog.txt to zara45
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to zara45
+2025-05-17 01:53:45 - Created FYI.yaml for zara45 with 3 blogs
+2025-05-17 01:53:45 - Processing user: zoya46 (Preferences: Sports, Technology, Lifestyle)
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to zoya46
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to zoya46
+2025-05-17 01:53:45 - Fallback assigned blog.txt to zoya46
+2025-05-17 01:53:45 - Created FYI.yaml for zoya46 with 3 blogs
+2025-05-17 01:53:45 - Processing user: vinay47 (Preferences: Cinema, Finance, Travel)
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to vinay47
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to vinay47
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to vinay47
+2025-05-17 01:53:45 - Created FYI.yaml for vinay47 with 3 blogs
+2025-05-17 01:53:45 - Processing user: tara48 (Preferences: Finance, Sports, Food)
+2025-05-17 01:53:45 - Fallback assigned blog.txt to tara48
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to tara48
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to tara48
+2025-05-17 01:53:45 - Created FYI.yaml for tara48 with 3 blogs
+2025-05-17 01:53:45 - Processing user: ritu49 (Preferences: Technology, Cinema, Lifestyle)
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to ritu49
+2025-05-17 01:53:45 - Fallback assigned blog.txt to ritu49
+2025-05-17 01:53:45 - Fallback assigned blog2.txt to ritu49
+2025-05-17 01:53:45 - Created FYI.yaml for ritu49 with 3 blogs
+2025-05-17 01:53:45 - Processing user: neel50 (Preferences: Food, Travel, Cinema)
+2025-05-17 01:53:45 - Fallback assigned blog3.txt to neel50
+2025-05-17 01:53:45 - Fallback assigned blog1.txt to neel50
+2025-05-17 01:53:45 - Fallback assigned blog.txt to neel50
+2025-05-17 01:53:45 - Created FYI.yaml for neel50 with 3 blogs
+
+Blog Assignment Summary:
+blog1.txt: 38 assignments
+blog.txt: 38 assignments
+blog2.txt: 37 assignments
+blog3.txt: 37 assignments
+2025-05-17 01:53:45 - Blog assignment process completed

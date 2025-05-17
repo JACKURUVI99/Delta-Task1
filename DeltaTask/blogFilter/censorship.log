@@ -1,0 +1,21 @@
+=== Log 2025-05-17 01:58:18 ===
+Checking: blog3.txt
+Clean file
+
+Checking: blog2.txt
+[01:58:18] hate -> 1
+Words found: 1
+hate: 1
+
+Checking: blog1.txt
+[01:58:18] childporn -> 1
+[01:58:18] porn -> 1
+[01:58:18] hate -> 1
+Words found: 3
+hate: 1
+porn: 1
+childporn: 1
+
+Checking: blog.txt
+Clean file
+

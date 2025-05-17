@@ -1,0 +1,32 @@
+categories:
+  1: "Sports"
+  2: "Cinema"
+  3: "Technology"
+  4: "Travel"
+  5: "Food"
+  6: "Lifestyle"
+  7: "Finance"
+blogs:
+  - file_name: blog.txt
+    publish_status: true
+    cat_order:
+      - 1
+      - 4
+      - 5
+      - 3
+  - file_name: blog1.txt
+    publish_status: true
+    cat_order:
+      - 123
+  - file_name: blog.txt
+    publish_status: true
+    cat_order:
+      - 345
+  - file_name: blog2.txt
+    publish_status: true
+    cat_order:
+      - 345
+  - file_name: blog3.txt
+    publish_status: true
+    cat_order:
+      - 671
